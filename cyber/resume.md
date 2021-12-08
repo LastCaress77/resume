@@ -6,11 +6,11 @@
 - <http://www.nullmind.net>
 
 <!-- summary -->
-I am 20+ year IT industry veteran with a diverse skill set ranging across multiple technology and security domains. I enjoy continuously testing various skills and learning techniques on sites like KodeKloud, HackTheBox, and TryHackMe. Frequently learning and growing on my home lab and public clouds deploying automated systems and containers while trying new ideas and growing skills with new tools and technologies. Cleared to Special Programs with TS/SCI and a "Security First" mindset since I first achieved my CISSP in 2009. Seeking to grow into Cyber Architect roles in the cloud space.
+I am 20+ year IT industry veteran with a diverse skill set ranging across multiple technology and security domains. I enjoy continuously testing various skills and learning techniques on sites like KodeKloud and TryHackMe. Frequently learning and growing on my home lab and public clouds deploying automated systems and containers while trying new ideas and growing skills with new tools and technologies. U.S. Army Veteran cleared to TS/SCI with an "Information Security First" mindset. Seeking to grow into remote Cyber Architect roles in the cloud space.
 
 ## Experience
 
-### <span>Sr. Cyber Security Analyst, Northrop Grumman</span> <span>06/2020 - Present</span>
+### <span>Sr. Cyber Security Analyst, Northrop Grumman</span> <span>June 2020 - Present</span>
 
 Information System Security Officer (ISSO) for a multi-classification development enclave. Primary responsibility for eMASS, Xacta, code review, managing Authorities to Operate/Connect with multiple external communities. Additionally ensure continued compliance with site polices IAW NIST 800-53 Rev 4 and contractual requirements. Monitor and maintain compliance via Tenable.sc, SCC/SCAP, and Ansible. Coordinate with external agencies for various mission taskings and requirements gathering.
 
