@@ -6,17 +6,17 @@
 - <http://www.nullmind.net>
 
 <!-- summary -->
-I am 20+ year IT industry veteran with a diverse skill set ranging across multiple technology and security domains. I enjoy continuously testing various skills and learning techniques on sites like HackTheBox and TryHackMe. Frequently learning and growing on my home lab deploying automated VMs and containers while trying new ideas and growing skills with new tools and technologies. Cleared to Special Programs with TS/SCI and a "Security First" mindset since I achieved my CISSP in 2009.
+I am 20+ year IT industry veteran with a diverse skill set ranging across multiple technology and security domains. I enjoy continuously testing various skills and learning techniques on sites like TryHackMe. Frequently learning and growing on my home labs deploying automated VMs and containers while trying new ideas and growing skills with new tools and technologies. Cleared to Special Programs with TS/SCI and a "Security First" mindset since I achieved my CISSP in 2009.
 
 ## Experience
 
-### <span>Cyber Security Analyst, Northrop Grumman</span> <span>06/2020 - Present</span>
+### <span>Sr. Principal Cyber Security Analyst, Northrop Grumman</span> <span>06/2020 - Present</span>
 
-Information System Security Officer for a multi-classification enclave. Primary responsibility for eMASS, Xacta, multiple ATOs and ATCs with multiple communities. Additionally ensure continued compliance with site polices IAW NIST 800-53, DIA, and Contractual requirements. Monitor and maintain compliance via HBSS, ACAS, SCC, and SCAP. Generate reports as required for CTOs, Data Calls, and monthly status reporting. Coordinate with external agencies for various mission taskings and requirements gathering.
+Information System Security Officer and System Administrator for a multi-classification enclave. Primary responsibility for eMASS, Xacta, multiple ATOs and ATCs with multiple communities. Additionally ensure continued compliance with site polices IAW NIST 800-53, DIA, and Contractual requirements. Monitor and maintain compliance via Ansible, HBSS, ACAS, SCC, and SCAP. Generate reports as required for CTOs, Data Calls, and monthly status reporting. Coordinate with external agencies for various mission taskings and requirements gathering.
 
 ### <span>Principal Systems Engineer, Raytheon</span> <span>December 2016 - June 2020</span>
 
-Principal Engineer developing delivery of automated solutions to reduce delivery times and ensure continued baseline compliance. Program wide Ansible SME writing and reviewing modules, roles, and playbooks to meet continuous test and delivery objectives across the enterprise. Technical lead of team that developed a custom automated STIG unit to address all STIG items with consideration of POA&Ms and Waivers. Worked across agile teams to ensure sprint objectives remained on track in a Windows and Linux environment. 
+Principal Engineer developing delivery of automated solutions to reduce delivery times and ensure continued baseline compliance. Program wide Ansible SME writing and reviewing modules, roles, and playbooks to meet continuous test and delivery objectives across the enterprise. Technical lead of team that developed a custom automated STIG unit to address all STIG items with consideration of POA&Ms and Waivers. Worked across agile teams to ensure sprint objectives remained on track in a Windows and Linux environment.
 
 ### <span>Professional Services Consultant, Strategic Business Systems</span> <span>August 2015 - December 2016</span>
 
