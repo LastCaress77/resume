@@ -1,5 +1,5 @@
 <!-- Contact Details -->
-# William Lorenzo
+# William Lorenzo - CISSP
 - <wjlorenzo@gmail.com>
 - (719)660-2442
 - Colorado Springs, CO
