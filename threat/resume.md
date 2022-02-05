@@ -6,16 +6,16 @@
 - <http://www.nullmind.net>
 
 <!-- summary -->
-I am 20+ year IT industry veteran with a diverse skill set ranging across multiple technology and security domains. I enjoy continuously testing various skills and learning techniques on sites like TryHackMe. Frequently learning and growing on my home labs deploying automated VMs and containers while trying new ideas and growing skills with new tools and technologies. Cleared to Special Programs with TS/SCI and a "Security First" mindset since I achieved my CISSP in 2009.
+I am 20+ year IT industry veteran with a diverse skill set ranging across multiple technology and security domains. I enjoy continuously learning new skills and techniques on sites like TryHackMe and RangeForce. I work in my home lab deploying automated VMs and containers while trying new ideas and growing skills with new tools and technologies in relation to ATT&CK, D3FEND, and RE&CT Frameworks. Cleared to Special Programs with TS/SCI and a "Security First" mindset since I achieved my CISSP in 2009. 
 
 ## Experience
 
 ### <span>Sr. Principal Cyber Security Analyst, Northrop Grumman</span> <span>06/2020 - Present</span>
 
-Information System Security Officer and System Administrator for a multi-classification enclave. Primary responsibility for eMASS, Xacta, multiple ATOs and ATCs with multiple communities. Additionally ensure continued compliance with site polices IAW NIST 800-53, DIA, and Contractual requirements. Monitor and maintain compliance via Ansible, HBSS, ACAS, SCC, and SCAP. Generate reports as required for CTOs, Data Calls, and monthly status reporting. Coordinate with external agencies for various mission taskings and requirements gathering.
+Information System Security Officer and Systems Administrator for a multi-classification enclave. Primary responsibility for eMASS, Xacta, multiple ATOs and ATCs with multiple communities. Additionally ensure continued compliance with site polices IAW NIST 800-53, DIA, and Contractual requirements. Monitor and maintain compliance via Ansible, HBSS, ACAS, SCC, and SCAP. Generate reports as required for CTOs, Data Calls, and monthly status reporting. Coordinate with external agencies for various mission taskings and requirements gathering.
 
 * Completed ATO (Xacta) on Cross Domain Solution
-* Completed ATO (Xacta) on TS/SCI enclave that had a long running series of extension
+* Completed ATO (Xacta) on TS/SCI enclave that had a long running series of extensions
 * Comprehensive update of Secret system eMass package from ground up; ATO in progress
 * Introduced VMware to development cycle reducing complexity and error rates
 * Finished upgrade to Red Hat 7 and full multi factor authentication implementation on all enclaves
@@ -26,8 +26,8 @@ Principal Engineer developing delivery of automated solutions to reduce delivery
 
 * Automation and CI/CD SME for Global Enterprise system
 * Red Hat 6/7, Windows 2012/2016, Ansible, GitLab, Podman, VMware, NetApp, and Active Directory User/Administrator
-* Security Compliance specialist IAW NIST 800-53
-* Automation Assistant Product Owner
+* Security Compliance specialist IAW NIST 800-53/RMF
+* Automation Assistant Product Owner (C2BMC Automation CFPT)
 
 ### <span>Professional Services Consultant, Strategic Business Systems</span> <span>August 2015 - December 2016</span>
 
@@ -78,4 +78,3 @@ Sole Systems and Network Administrator for a local Internet Service Provider. Ma
 * NetApp NCDA 7mode
 * Microsoft MCTS - Windows 7
 * CompTIA Security +, A+, Project+
-
