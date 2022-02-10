@@ -64,9 +64,13 @@ Responsible for all systems and network connectivity design used by an operation
 
 Provide comprehensive server, desktop, and network administration on both Windows and Linux platforms.
 
-### <span>Systems and Network Engineer, PCI Broadband</span> <span>October 1999 - June 2008</span>
+### <span>Systems and Network Engineer, PCI Broadband</span> <span>June 1999 - June 2008</span>
 
 Sole Systems and Network Administrator for a local Internet Service Provider. Managed all devices and ensured external connectivity and peering with upstream providers. Managed all Unix systems to ensure continued mail, web and other services for residential and business customers.
+
+### <span>Intelligence Analyst, US Army</span> <span>December 1995 - June 1999</span>
+
+All source Intelligence Analyst Specialist for 10th Special Forces Group in the US Army. Responsible for collecting intelligence information from any available source. Verifying information credibility and relevance to the supported assets mission. Briefed command on known threat actors and other threats posed to supported teams in theater. Analyzed upstream command requests for information and ability of theater assets to collect or observe said objectives with on-going missions.
 
 ## Certifications
 
