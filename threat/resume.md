@@ -26,7 +26,7 @@ Principal Engineer developing delivery of automated solutions to reduce delivery
 
 * Automation and CI/CD SME for Global Enterprise system
 * Red Hat 6/7, Windows 2012/2016, Ansible, GitLab, Podman, VMware, NetApp, and Active Directory User/Administrator
-* Security Compliance specialist IAW NIST 800-53/RMF
+* Security Compliance specialist IAW NIST 800-53/RMF. ACAS, HBSS, EndGame, SCAP/SCC, ArcSight, Splunk
 * Automation Assistant Product Owner (C2BMC Automation CFPT)
 
 ### <span>Professional Services Consultant, Strategic Business Systems</span> <span>August 2015 - December 2016</span>
@@ -78,3 +78,8 @@ Sole Systems and Network Administrator for a local Internet Service Provider. Ma
 * NetApp NCDA 7mode
 * Microsoft MCTS - Windows 7
 * CompTIA Security +, A+, Project+
+
+## In Progress
+
+* PNPT - May 2022
+* OSCP - December 2022
