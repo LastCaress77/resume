@@ -1,5 +1,5 @@
-# Resumes - targeted to purpose
+# Resumes - short and long
 
-Currently looking to enter the Purple Team field. Please feel free to message if my resumes fit a need.
+Currently looking to enter the Threat and Vulnerability Managememnt field. Please feel free to message if my resumes fit a need.
 
-My Resumes in markdown with python to make a PDF
+My Resume in markdown with python to make a PDF

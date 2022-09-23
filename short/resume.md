@@ -6,13 +6,13 @@
 - <http://www.nullmind.net>
 
 <!-- summary -->
-I am 20+ year IT industry veteran with a diverse skill set ranging across multiple technology and security domains. I enjoy continuously testing various skills and learning techniques on sites like TryHackMe. Frequently learning and growing on my home labs deploying automated VMs and containers while trying new ideas and growing skills with new tools and technologies. Cleared to Special Programs with TS/SCI and a "Security First" mindset since I achieved my CISSP in 2009.
+I am 20+ year IT industry veteran with a diverse skill set ranging across multiple technology and security domains. I enjoy continuously testing various skills and learning techniques on sites like TryHackMe. Frequently learning and growing on my home labs deploying automated VMs and containers while trying new ideas and growing skills with new tools and technologies. Cleared to Special Programs with TS/SCI clearance and a "Security First" mindset since I achieved my CISSP in 2009.
 
 ## Experience
 
-### <span>Sr. Principal Cyber Security Analyst, Northrop Grumman</span> <span>06/2020 - Present</span>
+### <span>Sr. Principal Cyber Security Analyst, Northrop Grumman</span> <span>June 2020 - Present</span>
 
-Information System Security Officer and System Administrator for a multi-classification enclave. Primary responsibility for eMASS, Xacta, multiple ATOs and ATCs with multiple communities. Additionally ensure continued compliance with site polices IAW NIST 800-53, DIA, and Contractual requirements. Monitor and maintain compliance via Ansible, HBSS, ACAS, SCC, and SCAP. Generate reports as required for CTOs, Data Calls, and monthly status reporting. Coordinate with external agencies for various mission taskings and requirements gathering.
+Lead Cyber Vulnerability Analyst in support of a test and operations enclave. Primary responsibility for leading utilization of the cyber analyst tool suite as required by mission and upstream command directives. Senior team lead responsible for mentoring team and briefing status to leadership of varying levels of understanding and intent of knowledge transfer. Coordinate across teams to ensure affected teams are aware and understand current relevant threats and vulnerabilties. Assist leadership with remediation prioritization and scheduling across multiple priorities and real world activities.
 
 ### <span>Principal Systems Engineer, Raytheon</span> <span>December 2016 - June 2020</span>
 
@@ -41,3 +41,14 @@ Provide comprehensive server, desktop, and network administration on both Window
 ### <span>Systems and Network Engineer, PCI Broadband</span> <span>October 1999 - June 2008</span>
 
 Sole Systems and Network Administrator for a local Internet Service Provider. Managed all devices and ensured external connectivity and peering with upstream providers. Managed all Unix systems to ensure continued mail, web and other services for residential and business customers.
+
+## Certifications
+
+* (ISC)2 CISSP
+* VMware VCAP5-DCA
+* NetApp NCDA cDOT
+* VMware VCP5-DCV
+* VMware VCP6-DCV
+* NetApp NCDA 7mode
+* Microsoft MCTS - Windows 7
+* CompTIA Security +, A+, Project+
