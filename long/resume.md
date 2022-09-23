@@ -68,6 +68,10 @@ Provide comprehensive server, desktop, and network administration on both Window
 
 Sole Systems and Network Administrator for a local Internet Service Provider. Managed all devices and ensured external connectivity and peering with upstream providers. Managed all Unix systems to ensure continued mail, web and other services for residential and business customers.
 
+### <span>Intelligence Analyst, US Army<</span> <span>December 1995 - June 1999</span>
+
+Intelligence Analyst (96B) assigned to 10th Special Forces Group in Fort Carson, Colorado. Responsible for source analysis and interpretation in regards to localized missions and command objectives utilizing all source intelligence information.
+
 ## Certifications
 
 * (ISC)2 CISSP
