@@ -6,11 +6,15 @@
 - <http://www.nullmind.net>
 
 <!-- summary -->
-I am 20+ year IT industry veteran with a diverse skill set ranging across multiple technology and security domains. I enjoy continuously testing various skills and learning techniques on sites like TryHackMe. Frequently learning and growing on my home labs deploying automated VMs and containers while trying new ideas and growing skills with new tools and technologies. Cleared to Special Programs with TS/SCI clearance and a "Security First" mindset since I achieved my CISSP in 2009.
+I am a 20+ year IT industry veteran with a diverse skill set ranging across multiple technology and security domains. I am looking to expand my role in the enterprise in the realm of leadership with a strong techincal focus and the ability to mentor junior team members.
 
 ## Experience
 
-### <span>Sr. Principal Cyber Security Analyst, Northrop Grumman</span> <span>June 2020 - Present</span>
+### <span>Sr. Technology Analyst, Southwest Airlines</span> <span>January 2023 - Present</span>
+
+Senior Application Security Analyst for the Southwest Airlines Attack Surface Management and Penetration Testing Team. Team Lead for all issues with Secure Code Scanning and Compliance to include Code Review and CI/CD Automation. Worked across pods to ensure ASM&P objectives were being represented correctly and implemented within stated requirements.
+
+### <span>Sr. Principal Cyber Security Analyst, Northrop Grumman</span> <span>June 2020 - January 2023</span>
 
 Lead Cyber Vulnerability Analyst in support of a test and operations enclave. Primary responsibility for leading utilization of the cyber analyst tool suite as required by mission and upstream command directives. Senior team lead responsible for mentoring team and briefing status to leadership of varying levels of understanding and intent of knowledge transfer. Coordinate across teams to ensure affected teams are aware and understand current relevant threats and vulnerabilties. Assist leadership with remediation prioritization and scheduling across multiple priorities and real world activities.
 
