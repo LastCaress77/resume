@@ -10,7 +10,9 @@ I am a 20+ year IT industry veteran with a diverse skill set ranging across mult
 
 ## Experience
 
-### <span>Sr. Technology Analyst, Southwest Airlines</span> <span>January 2023 - Present</span>
+### <span>Solutions Architect, Southwest Airlines</span> <span>October 2024 - Present</span>
+
+### <span>Sr. Technology Analyst, Southwest Airlines</span> <span>January 2023 - October 2024</span>
 
 Senior Application Security Analyst for the Southwest Airlines Attack Surface Management and Penetration Testing Team. Team Lead for all issues with Secure Code Scanning and Compliance to include Code Review and CI/CD Automation. Worked across pods to ensure ASM&P objectives were being represented correctly and implemented within stated requirements.
 
