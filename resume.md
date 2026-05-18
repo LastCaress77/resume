@@ -1,61 +1,82 @@
-<!-- Contact Details -->
 # William Lorenzo - CISSP
-- <wjlorenzo@gmail.com>
+- wjlorenzo@gmail.com
 - (719)660-2442
 - Colorado Springs, CO
 
 ## Professional Summary
-<!-- summary -->
-Cybersecurity Professional and CISSP with 20+ years of experience spanning enterprise security, cloud platforms, infrastructure, DevSecOps, and secure SDLC modernization. Experienced partnering across engineering, operations, and leadership teams to integrate security into cloud-native and CI/CD environments while aligning with NIST Risk Management Frameworks.
+Cybersecurity professional and CISSP with 20+ years of experience spanning enterprise security, cloud platforms, infrastructure, and DevSecOps/Secure SDLC. Experienced bridging engineering, operations, and leadership teams to integrate security into modern application delivery environments while aligning with business and regulatory requirements. Proven track record of identifying tooling deficiencies to drive platform modernization and eliminate cybersecurity delivery blockers. Previously held TS/SCI clearance supporting defense and operational mission environments. Continually leverage automation and AI-assisted workflows to accelerate research, analysis, documentation, and security engineering activities.
 
-Previously held TS/SCI clearance with experience supporting security governance, vulnerability management, security tooling integration, and enterprise modernization initiatives across complex environments. Hands-on technical background with continued focus on AWS, Gitlab, automation, containerized environments, and emerging security technologies through ongoing lab development and research.
+## Core Competencies
+
+| | | |
+| :--- | :--- | :--- |
+| • Security Architecture | • Secure SDLC / DevSecOps | • Automation & Compliance |
+| • Software Security (SAST/SCA/IaC) | • Vulnerability Management | • AWS Cloud Security |
+| • GitLab CI/CD Pipelines | • NIST RMF / STIG Compliance | • Linux / Windows Infrastructure |
+
+---
 
 ## Experience
 
-### <span>Solutions Architect, Southwest Airlines</span> <span>November 2024 – Present <br> <span>Senior Cybersecurity Analyst</span> <span>January 2023 – November 2024</span>
+### Southwest Airlines
+**Solutions Architect** | November 2024 – Present
 
-Cybersecurity professional supporting SSDLC modernization, cloud security, and enterprise security architecture initiatives within a large-scale enterprise environment. Partnered across engineering, platform, operations, and security teams to integrate security into cloud-native application delivery and CI/CD workflows while aligning governance and risk management practices with enterprise and regulatory requirements.
+Solutions Architect tasked with modernizing enterprise Application Security and Cloud Security platforms while eliminating pipeline delivery bottlenecks caused by legacy tooling and practices. Partnering across engineering, platform, operations, and cybersecurity teams to integrate security into software development and CI/CD delivery workflows while aligning governance, risk management, and security practices.
 
-* Partnered with engineering and platform teams to integrate security controls, vulnerability management processes, and governance practices into CI/CD and cloud-native delivery workflows.
+* Architected automated and attested security guardrails within enterprise GitLab CI/CD pipelines, executing a modernization strategy to migrate from legacy Veracode and ad-hoc AWS/Palo Alto configurations to an integrated Snyk and CrowdStrike ecosystem with ServiceNow based compliance tracking.
+* Eliminate technical delivery blockers and accelerate pipeline velocity, leveraging historical data on tooling deficiencies to optimize the security toolchain, significantly reducing remediation timelines across several hundred engineering teams.
+* Contribute to enterprise architecture roadmaps for Cloud and SDLC security, delivering strategic guidance to executive leadership for modernization and security impacting decision making.
+* Steer the evolving design, implementation, and enterprise-wide operationalization of vulnerability management, application security, and cloud security platforms.
+* Collaborate across engineering, architecture, director, and executive leadership groups to balance technical security requirements with operational efficiency, delivery objectives, and engineering workflows.
 
-* Contributed to enterprise security architecture efforts involving AWS cloud services, GitLab pipelines, containerized environments, and security tooling integrations.
+### Southwest Airlines
+**Senior Cybersecurity Analyst** | January 2023 – November 2024
 
-* Supported design, implementation and operationalization of security tooling including vulnerability management, application security, and cloud security platforms.
+Senior Application Security member supporting enterprise application security initiatives including vulnerability management, secure SDLC practices, application security tooling, and risk analysis activities within large-scale enterprise environments.
 
-* Collaborated across cross-functional teams to balance security requirements with operational efficiency, delivery objectives, and engineering workflows.
+* Identified critical platform deficiencies within legacy ad-hoc Palo Alto Networks products and legacy Veracode tooling, documenting pipeline delivery friction and framing the business case for enterprise stack modernization.
+* Assisted in developing enterprise vulnerability remediation pipelines, shifting application testing from legacy environments into early-stage automated testing workflows.
+* Partnered with distributed development teams to assess, prioritize, and remediate high-risk vulnerabilities without degrading sprint velocity.
 
-### <span>Sr. Principal Cyber Security Analyst, Northrop Grumman</span> <span>June 2020 - Present</span>
+### Northrop Grumman
+**Sr. Principal Cyber Security Analyst** | June 2020 – January 2023
 
-Lead Cyber Vulnerability Analyst in support of a test and operations enclave. Primary responsibility for leading utilization of the cyber analyst tool suite as required by mission and upstream command directives. Senior team lead responsible for mentoring team and briefing status to leadership of varying levels of understanding and intent of knowledge transfer. Coordinate across teams to ensure affected teams are aware and understand current relevant threats and vulnerabilties. Assist leadership with remediation prioritization and scheduling across multiple priorities and real world activities.
+* Directed vulnerability analysis and remediation strategy for high-consequence operational and test enclaves within a defense mission context.
+* Briefed executive stakeholders on mission-critical risk postures and prioritized mitigations across multiple concurrent defense initiatives.
 
-### <span>Principal Systems Engineer, Raytheon</span> <span>December 2016 - June 2020</span>
+### Raytheon
+**Principal Systems Engineer** | December 2016 – June 2020
 
-Principal Engineer developing delivery of automated solutions to reduce delivery times and ensure continued baseline compliance. Program wide Ansible SME writing and reviewing modules, roles, and playbooks to meet continuous test and delivery objectives across the enterprise. Technical lead of team that developed a custom automated STIG unit to address all STIG items with consideration of POA&Ms and Waivers. Worked across agile teams to ensure sprint objectives remained on track in a Windows and Linux environment.
+Principal Engineer focused on development of automated solutions supporting baseline compliance, continuous delivery, and operational efficiency initiatives.
 
-### <span>Professional Services Consultant, Strategic Business Systems</span> <span>August 2015 - December 2016</span>
+* Served as program-wide Ansible SME responsible for the development and review of modules, roles, and playbooks supporting enterprise automation objectives.
+* Spearheaded the design and development of a custom automated STIG enforcement engine, programmatically resolving complex compliance baselines across hybrid Linux/Windows environments while managing POA&Ms and waivers.
+* Worked across agile teams to ensure sprint objectives remained on track in a mixed Windows and Linux environment.
 
-Professional Services team member supporting post-sales implementation of NetApp storage systems and VMware infrastructure. Assisted local staff with transitioning environments to newly purchased technologies. Created full implementation plans from end-to-end covering migration of all relevant systems and technologies to new solutions. Developed custom training and documentation for each customer related to new technology implementations and integrations to existing systems and workflows. Additionally assisted Pre-Sales team with design and meeting coordination to ensure year-over-year growth.
+### Strategic Business Systems
+**Professional Services Consultant** | August 2015 – December 2016
 
-### <span>Enterprise Architect, TEK Systems</span> <span>February 2015 - August 2015</span>
+* Supported post-sales implementation of NetApp storage systems and VMware infrastructure, assisting local staff with transitioning environments to newly purchased technologies.
+* Created full end-to-end implementation plans covering the migration of all relevant systems and technologies to new solutions.
+* Developed custom training and documentation for each customer related to new technology implementations and integrations to existing systems and workflows.
+* Assisted Pre-Sales team with design and meeting coordination to ensure year-over-year growth.
 
-Enterprise Architect for NORAD USNORTHCOM IT Services. Provided technical oversight for all projects and proposals to ensure designs are in line with contractual and business requirements. Primary technical resource for project managers and staff engineers to validate designs and implementation plans. Created and maintained high level enterprise technical documentation to include white papers, service design, release design, and transition documentation. Coordinated product research and testing to validate design objectives.
+### TEK Systems
+**Enterprise Architect** | February 2015 – August 2015
 
-### <span>Storage and Virtualization Engineer, Intelligent Software Solutions</span> <span>July 2012 - February 2015</span>
+Enterprise Architect for NORAD USNORTHCOM IT Services.
 
-Managed multiple vCenter instances and related NetApp storage in a Cisco UCS platform. Similarly responsible for Linux and Windows Administration to include Active Directory. Administered Atlassian products in support of a DevOps organization.
+* Provided technical oversight for all projects and proposals to ensure designs aligned with contractual and business requirements.
+* Served as primary technical resource for project managers and staff engineers to validate designs and implementation plans.
+* Created and maintained high-level enterprise technical documentation including white papers, service design, release design, and transition documentation.
+* Coordinated product research and testing to validate design objectives.
 
-### <span>Senior Systems Analyst, Lockheed Martin</span> <span>November 2011 - July 2012</span>
+---
 
-Responsible for all systems and network connectivity design used by an operations team comprised of Government and Contract employees. Ensure Department of Defense security regulations compliance as allowed by the operations team lead. Advised best practices and DoD system management procedures to ensure system availability to 24x7 operational mission staff.
+## Early Career History
 
-### <span>Senior Systems Administrator, Northrop Grumman</span> <span>June 2008 - November 2011</span>
-
-Provide comprehensive server, desktop, and network administration on both Windows and Linux platforms.
-
-### <span>Systems and Network Engineer, PCI Broadband</span> <span>October 1999 - June 2008</span>
-
-Sole Systems and Network Administrator for a local Internet Service Provider. Managed all devices and ensured external connectivity and peering with upstream providers. Managed all Unix systems to ensure continued mail, web and other services for residential and business customers.
-
-### <span>Intelligence Analyst, US Army</span> <span>December 1995 - June 1999</span>
-
-Intelligence Analyst (96B) assigned to 10th Special Forces Group in Fort Carson, Colorado. Responsible for source analysis and interpretation in regards to localized missions and command objectives utilizing all source intelligence information.
+* **Intelligent Software Solutions** | *Storage and Virtualization Engineer* | July 2012 – February 2015
+* **Lockheed Martin** | *Senior Systems Analyst* | November 2011 – July 2012
+* **Northrop Grumman** | *Senior Systems Administrator* | June 2008 – November 2011
+* **PCI Broadband** | *Systems and Network Engineer* | October 1999 – June 2008
+* **United States Army** | *Intelligence Analyst (96B - 10th Special Forces Group)* | December 1995 – June 1999
