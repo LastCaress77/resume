@@ -4,7 +4,11 @@
 - Colorado Springs, CO
 
 ## Professional Summary
-Cybersecurity professional and CISSP with 20+ years of experience spanning enterprise security, cloud platforms, infrastructure, and DevSecOps/Secure SDLC. Experienced bridging engineering, operations, and leadership teams to integrate security into modern application delivery environments while aligning with business and regulatory requirements. Proven track record of identifying tooling deficiencies to drive platform modernization and eliminate cybersecurity delivery blockers. Previously held TS/SCI clearance supporting defense and operational mission environments. Continually leverage automation and AI-assisted workflows to accelerate research, analysis, documentation, and security engineering activities.
+Cybersecurity professional and CISSP with 20+ years of experience spanning enterprise security, cloud platforms, infrastructure, and DevSecOps/Secure SDLC. 
+
+Experienced bridging engineering, operations, and leadership teams to integrate security into modern application delivery environments while aligning with business and regulatory requirements.
+
+Previously held TS/SCI clearance supporting defense and operational mission environments. Continually leverage automation and AI-assisted workflows to accelerate research, analysis, documentation, and security engineering activities.
 
 ## Core Competencies
 
@@ -13,8 +17,7 @@ Cybersecurity professional and CISSP with 20+ years of experience spanning enter
 | • Security Architecture | • Secure SDLC / DevSecOps | • Automation & Compliance |
 | • Software Security (SAST/SCA/IaC) | • Vulnerability Management | • AWS Cloud Security |
 | • GitLab CI/CD Pipelines | • NIST RMF / STIG Compliance | • Linux / Windows Infrastructure |
-
----
+| | | |
 
 ## Experience
 
@@ -29,14 +32,16 @@ Solutions Architect tasked with modernizing enterprise Application Security and 
 * Steer the evolving design, implementation, and enterprise-wide operationalization of vulnerability management, application security, and cloud security platforms.
 * Collaborate across engineering, architecture, director, and executive leadership groups to balance technical security requirements with operational efficiency, delivery objectives, and engineering workflows.
 
-### Southwest Airlines
-**Senior Cybersecurity Analyst** | January 2023 – November 2024
+<br>**Senior Cybersecurity Analyst** | January 2023 – November 2024
 
 Senior Application Security member supporting enterprise application security initiatives including vulnerability management, secure SDLC practices, application security tooling, and risk analysis activities within large-scale enterprise environments.
 
-* Identified critical platform deficiencies within legacy ad-hoc Palo Alto Networks products and legacy Veracode tooling, documenting pipeline delivery friction and framing the business case for enterprise stack modernization.
+* Identified critical platform deficiencies within legacy ad-hoc Palo Alto Networks products and legacy Veracode tooling, documented pipeline delivery friction and framed the business case for enterprise tooling modernization.
 * Assisted in developing enterprise vulnerability remediation pipelines, shifting application testing from legacy environments into early-stage automated testing workflows.
-* Partnered with distributed development teams to assess, prioritize, and remediate high-risk vulnerabilities without degrading sprint velocity.
+* Paired with development teams to assess, prioritize, and remediate high-risk vulnerabilities without degrading sprint velocity.
+* Supported adoption and security integration of Infrastructure-as-Code (IaC) deployment workflows within CI/CD pipelines, assisting engineering teams with secure configuration and automated security validation practices.
+
+<br>
 
 ### Northrop Grumman
 **Sr. Principal Cyber Security Analyst** | June 2020 – January 2023
@@ -70,8 +75,6 @@ Enterprise Architect for NORAD USNORTHCOM IT Services.
 * Served as primary technical resource for project managers and staff engineers to validate designs and implementation plans.
 * Created and maintained high-level enterprise technical documentation including white papers, service design, release design, and transition documentation.
 * Coordinated product research and testing to validate design objectives.
-
----
 
 ## Early Career History
 
