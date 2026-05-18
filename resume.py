@@ -74,6 +74,7 @@ def write_pdf(
 
     options = [
         "--headless=new",
+        "--no-pdf-header-footer",
         "--print-to-pdf-no-header",
         "--enable-logging=stderr",
         "--log-level=2",
